@@ -24,7 +24,11 @@ public class Game {
 	private String platforms;
 	private Double score;
 	private String imgUrl;
+	
+	@Column(columnDefinition = "TEXT")
 	private String shortDescription;
+	
+	@Column(columnDefinition = "TEXT") //instrução para que a jpa gere esse campo como um texto.
 	private String longDescription;
 	
 	public Game() {
