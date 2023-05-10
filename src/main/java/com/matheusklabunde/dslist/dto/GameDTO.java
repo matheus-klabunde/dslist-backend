@@ -21,6 +21,7 @@ public class GameDTO {
 	
 	public GameDTO(Game entity) {
 		BeanUtils.copyProperties(entity, this); //para copiar objetos grandes.
+												// Deve-se usar os getters E os setters.
 	}
 
 	public Long getId() {
