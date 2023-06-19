@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 Esse projeto foi desenvolvido durante o Intensivão Java Spring, ministrado pelo professor Nélio Alvez, do dia 08 ao dia 12 de maio de 2023, na plataforma Youtube.
-Nele desenvolvemos uma API Rest de uma lista de jogos. Foram abordos temas como: Verbos HTTP, ORM, DTO, Consultas SQL, entre outros.
+Nele desenvolvemos uma API Rest de uma lista de jogos. Foram abordos temas como: Verbos HTTP, ORM, DTO, Consultas SQL, Mapeamento de entidades com JPA, entre outros.
 
 # Tecnologias utilizadas
 - Java
